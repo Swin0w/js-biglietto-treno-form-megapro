@@ -1,0 +1,29 @@
+/* REGOLE GENERALI PAGINA */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+/* CORPO PRINCIPALE */
+main {
+  background-color: #fc1961;
+  height: 100vh;
+}
+.row {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+/* STILE DEL TESTO */
+.row h2 {
+  text-align: center;
+  color: white;
+}
+/* -------------- */
+.form {
+  background-color: white;
+  width: 100%;
+}
